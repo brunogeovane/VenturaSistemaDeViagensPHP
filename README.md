@@ -3,11 +3,7 @@ Sistema de Viagens Base feita com PHP PDO
 
 
 ### Frameworks/Bibliotecas
-* [material-intro-screen](https://github.com/TangoAgency/material-intro-screen)
-* [CircleImageView](https://github.com/hdodenhof/CircleImageView)
-* [LoginButtons](https://github.com/shaishavgandhi05/LoginButtons)
-
-
+* [Bootstrap](https://getbootstrap.com/)
 
 
 ### Requerimentos
