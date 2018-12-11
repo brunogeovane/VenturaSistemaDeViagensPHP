@@ -1,7 +1,7 @@
 <?php
 require_once 'DB.php';
 
-class Crud extends DB{	
+class Crud extends CI_Controller{	
  
     static public function find()
 	{

@@ -1,7 +1,7 @@
 <?php
 require_once 'Crud.php';
 
-class Adms{
+class Adms extends CI_Controller{
     
     
 	public function insert() {

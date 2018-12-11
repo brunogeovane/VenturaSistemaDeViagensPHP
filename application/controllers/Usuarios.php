@@ -1,7 +1,7 @@
 <?php
 require_once 'Crud.php';
 
-class Usuarios extends Crud{
+class Usuarios extends CI_Controller{
 	
 	public function insert() {
 	    $sql = "INSERT INTO {$this->tabela} (email, senha, nome, data, curso, sexo, cpf, telefone, matricula) VALUES (:email, :senha, :nome, :data, :curso, :sexo, :cpf, :telefone, :matricula)";
