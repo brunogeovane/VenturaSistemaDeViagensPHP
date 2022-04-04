@@ -1,5 +1,5 @@
 # Ventura - Sistema de Viagens
-Sistema de Viagens Base feita com PHP PDO
+Sistema de Viagens Base feita com PHP PDO, Produzido durante as aulas de prática de software.
 
 
 ### Frameworks/Bibliotecas
